@@ -11,6 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
+            echo "<h2>Vas a hacer login con el usuario</h2>";
         ?>
     </body>
 </html>
