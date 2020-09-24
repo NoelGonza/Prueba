@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
             echo "<h2>Vas a hacer login con el usuario</h2>";
+            echo "<p>No has hecho login</p>";
         ?>
     </body>
 </html>
